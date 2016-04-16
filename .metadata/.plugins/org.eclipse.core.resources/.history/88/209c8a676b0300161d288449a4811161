@@ -1,0 +1,12 @@
+package j17;
+
+public class j17 {
+	int calculatearea(int x,int y){
+		int area = x*y;
+		return area;
+	}
+	public static void main(String args){
+		
+		
+	}
+}
